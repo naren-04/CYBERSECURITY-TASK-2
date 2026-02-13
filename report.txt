@@ -1,0 +1,25 @@
+PHISHING EMAIL ANALYSIS REPORT
+
+1. Spoofed Sender:
+
+-The sender email "support@paypa1.com" is fake. It uses number 1 instead of letter l.
+
+2. Suspicious Link:
+
+-The link "http://paypal-secure-login.com" is not the official PayPal website.
+
+3. Urgent Language:
+
+-The email creates fear by saying the account will be locked in 24 hours.
+
+4. Generic Greeting:
+
+-It says "Dear Customer" instead of using a real name.
+
+5. Threatening Message:
+
+-It threatens account suspension to force action.
+
+Conclusion:
+
+-This email is a phishing attempt designed to steal user login information.

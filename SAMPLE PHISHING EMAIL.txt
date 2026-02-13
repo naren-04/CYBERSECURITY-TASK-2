@@ -1,0 +1,16 @@
+From: PayPal Support <support@paypa1.com>
+To: user@gmail.com
+Subject: Urgent – Verify Your Account
+
+Dear Customer,
+
+Your PayPal account has been temporarily limited due to suspicious activity.
+You must verify your account within 24 hours or it will be permanently locked.
+
+Click the link below to verify:
+http://paypal-secure-login.com
+
+Failure to verify will result in account suspension.
+
+Regards,
+PayPal Security Team
